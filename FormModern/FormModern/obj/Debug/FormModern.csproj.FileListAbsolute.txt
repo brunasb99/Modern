@@ -1,0 +1,10 @@
+C:\Users\bruna\Documents\FormModern\FormModern\bin\Debug\FormModern.exe.config
+C:\Users\bruna\Documents\FormModern\FormModern\bin\Debug\FormModern.exe
+C:\Users\bruna\Documents\FormModern\FormModern\bin\Debug\FormModern.pdb
+C:\Users\bruna\Documents\FormModern\FormModern\obj\Debug\FormModern.csproj.AssemblyReference.cache
+C:\Users\bruna\Documents\FormModern\FormModern\obj\Debug\FormModern.Form1.resources
+C:\Users\bruna\Documents\FormModern\FormModern\obj\Debug\FormModern.Properties.Resources.resources
+C:\Users\bruna\Documents\FormModern\FormModern\obj\Debug\FormModern.csproj.GenerateResource.cache
+C:\Users\bruna\Documents\FormModern\FormModern\obj\Debug\FormModern.csproj.CoreCompileInputs.cache
+C:\Users\bruna\Documents\FormModern\FormModern\obj\Debug\FormModern.exe
+C:\Users\bruna\Documents\FormModern\FormModern\obj\Debug\FormModern.pdb
